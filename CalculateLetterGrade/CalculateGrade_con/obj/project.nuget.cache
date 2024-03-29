@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/gtefg/2jQ9dAViLL6BIZD0DohscZPL+RX/8gSvwkdnbBJzi1tdxrHxVwNS9tNi73ISff54XyZ6gOSMxNXQGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KEKei\\source\\repos\\CalculateLetterGrade\\CalculateGrade_con\\CalculateGrade_con.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\KEKei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

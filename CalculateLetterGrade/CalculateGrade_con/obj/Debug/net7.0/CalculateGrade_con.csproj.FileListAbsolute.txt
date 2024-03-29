@@ -1,0 +1,14 @@
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\bin\Debug\net7.0\CalculateGrade_con.exe
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\bin\Debug\net7.0\CalculateGrade_con.deps.json
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\bin\Debug\net7.0\CalculateGrade_con.runtimeconfig.json
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\bin\Debug\net7.0\CalculateGrade_con.dll
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\bin\Debug\net7.0\CalculateGrade_con.pdb
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\CalculateGrade_con.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\CalculateGrade_con.AssemblyInfoInputs.cache
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\CalculateGrade_con.AssemblyInfo.cs
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\CalculateGrade_con.csproj.CoreCompileInputs.cache
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\CalculateGrade_con.dll
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\refint\CalculateGrade_con.dll
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\CalculateGrade_con.pdb
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\CalculateGrade_con.genruntimeconfig.cache
+C:\Users\KEKei\source\repos\CalculateLetterGrade\CalculateGrade_con\obj\Debug\net7.0\ref\CalculateGrade_con.dll
